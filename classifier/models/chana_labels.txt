@@ -1,0 +1,9 @@
+0 broken
+1 damage
+2 discolor
+3 fm
+4 green
+5 healthy
+6 immature
+7 shreveled
+8 weeveled
